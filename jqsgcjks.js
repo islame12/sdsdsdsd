@@ -39,7 +39,7 @@ j++;}
 
 if(a_to_vh==false)
 
-{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://qcmph.blogspot.com/p/blog-page_17.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+{var encryptedUrl=Base64.encode(a_to_vi);a_to_ve[i].href="https://down4files.blogspot.com/p/blog-page_17.html?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 
